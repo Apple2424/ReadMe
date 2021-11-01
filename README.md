@@ -1,4 +1,4 @@
-### Hello there, My name is Apple as a Nickname of course. [BlueApple][website] 👋
+### Hello there, My name is Apple as a Nickname of course. [BlueApple]
 
 ## I'm a  Server Developer mainly games like Unturned, Garry's Mod and Minecraft!!
 
