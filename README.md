@@ -4,8 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://discord.gg/H9MkaqV" />][linkedin]
+[<img align="left" alt="Discord" width="22px" src="https://discord.gg/H9MkaqV" />][linkedin]
 
 <br />
 <br />
