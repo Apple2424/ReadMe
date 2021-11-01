@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: https://github.com/Apple2424
+      - uses: https://github.com/Apple2424
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ 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 }}
